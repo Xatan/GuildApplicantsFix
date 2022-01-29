@@ -26,6 +26,6 @@ jobs:
 
       - name: Clone Project
         uses: actions/checkout@v1
-		  
+
       - name: Package and Release
         uses: BigWigsMods/packager@master
