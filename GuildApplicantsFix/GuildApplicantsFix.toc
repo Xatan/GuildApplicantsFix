@@ -1,0 +1,9 @@
+## Interface: 90105
+## Author: Xxxulu
+## Title: Guild Applicants Fix
+## Notes: Fix the Guild Applicants display in the Blizzard Guild Roster
+## Version: 1.0.0
+## X-Website: https://github.com/Xatan/GuildApplicantsFix-Addon-Release
+## X-Curse-Project-ID: 571301
+# X-WoWI-ID: ????
+GuildApplicantsFix.lua
