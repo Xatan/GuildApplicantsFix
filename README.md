@@ -37,7 +37,7 @@ EU Tech Support Forum:
 
 ## Addon Source on GitHub
 
-[GitHub GuildApplicantsFix Addon Source Code](https://github.com/Xatan/GuildApplicantsFix-Addon-Release "GitHub GuildApplicantsFix Addon Source Code")
+[GitHub GuildApplicantsFix Addon Source Code](https://github.com/Xatan/GuildApplicantsFix "GitHub GuildApplicantsFix Source Code")
 
 
 
