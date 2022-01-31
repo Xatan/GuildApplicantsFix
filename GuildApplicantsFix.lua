@@ -1,6 +1,6 @@
 -- Author: Xxxulu
 -- Addon Name: "Guild Applicants Fix"
--- Version: 1.0.1
+-- Version: 1.0.2
 
 local GuildApplicantsFixAddonName, GuildApplicantsFixAddon = ...;
 local CreateFrame = CreateFrame;
@@ -8,7 +8,7 @@ local CreateFrame = CreateFrame;
 GuildApplicantsFixAddon.GAF = {};
 local GAF = GuildApplicantsFixAddon.GAF;
 
-GAF.version = "1.0.1";
+GAF.version = "1.0.2";
 
 GAF.GAFFrame = CreateFrame("FRAME", "GuildApplicantsFixFrame");
 
