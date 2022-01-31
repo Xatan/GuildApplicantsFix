@@ -15,6 +15,7 @@ jobs:
   release:
 
     runs-on: ubuntu-latest
+    environment: Packager # name of the custom environment containing the secrets
 
     # specify the environment variables used by the packager, matching the secrets from the project on GitHub
     env:
