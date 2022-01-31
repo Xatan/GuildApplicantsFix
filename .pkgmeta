@@ -1,8 +1,7 @@
 package-as: GuildApplicantsFix
-wowi-archive-previous: no
+wowi-archive-previous: yes
  
 manual-changelog:
   filename: CHANGELOG.md
   markup-type: markdown
-   
    
